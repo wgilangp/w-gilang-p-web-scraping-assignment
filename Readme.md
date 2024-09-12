@@ -1,7 +1,3 @@
-The script scrapes product details (name, price, rating, promo, sales, seller, location, and image link) from Tokopedia.
-It simulates scrolling to load all products and iterates through multiple pages.
-The scraped data is saved in a DataFrame for further analysis.
-
 # Tokopedia Web Scraping Project
 
 This project scrapes product information from Tokopedia's search results page using Python, Selenium, and BeautifulSoup. The goal is to gather data such as product name, price, rating, promotion, seller, and location for laptops with specific search queries.
