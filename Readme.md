@@ -22,11 +22,11 @@ This project automates the process of collecting product data from Tokopedia's s
 
 The output will be saved as a Pandas DataFrame containing the following fields:
 
-product_name: Name of the product.
-price: Price of the product.
-rating: Rating of the product.
-promo: Promotional details (if available).
-sold: Number of units sold.
-seller: Name of the seller.
-location: Location of the seller.
-link_image: URL of the product image.
+- product_name: Name of the product.
+- price: Price of the product.
+- rating: Rating of the product.
+- promo: Promotional details (if available).
+- sold: Number of units sold.
+- seller: Name of the seller.
+- location: Location of the seller.
+- link_image: URL of the product image.
