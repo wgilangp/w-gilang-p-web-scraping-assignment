@@ -1,4 +1,4 @@
-# Tokopedia Web Scraping Project
+# Web Scraping Project for Laptop Gaming on Tokopedia
 
 This project scrapes product information from Tokopedia's search results page using Python, Selenium, and BeautifulSoup. The goal is to gather data such as product name, price, rating, promotion, seller, and location for laptops with specific search queries.
 
@@ -27,7 +27,7 @@ The output will be saved as a Pandas DataFrame containing the following fields:
 - location: Location of the seller.
 - link_image: URL of the product image.
 
-## The Process for building the Python web scraping code for Tokopedia
+## The Process of Building the Python Web Scraping Code for Laptop Gaming on Tokopedia
 
 1. Setting Up Selenium & BeautifulSoup
     - First, we use Selenium to automatically open the Tokopedia web page because the website uses JavaScript to dynamically display content.
